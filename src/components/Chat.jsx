@@ -51,6 +51,7 @@ const Chat = () => {
            
                                 {/* WORK GANGAN */}
                      <div className='flex flex-col'>
+                         
                          <You />
                          <Receiver />
                      </div>
